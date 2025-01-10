@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: HYTQYY3
+-
+user: C:\Users\mreeser
+desktop: C:\Users\mreeser\Desktop
+desk: C:\Users\mreeser\Desktop
+documents: C:\Users\mreeser\Documents
+docks: C:\Users\mreeser\Documents
+downloads: C:\Users\mreeser\Downloads
+music: C:\Users\mreeser\Music
+pictures: C:\Users\mreeser\Pictures
+videos: C:\Users\mreeser\Videos
+talon home: C:\Users\mreeser\AppData\Roaming\talon
+talon recordings: C:\Users\mreeser\AppData\Roaming\talon\recordings
+talon user: C:\Users\mreeser\AppData\Roaming\talon\user
+profile: C:\Users\mreeser

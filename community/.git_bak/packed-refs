@@ -1,0 +1,30 @@
+# pack-refs with: peeled fully-peeled sorted 
+192691b50abcc6fb3ad43d602e15ae9cfd1afd2e refs/remotes/origin/abbreviation-reimplementation
+3c089ed6180160a5e219fb83fc5d65111bccf7db refs/remotes/origin/bi2
+394161a4b98474cd516ba707e9839685ec178625 refs/remotes/origin/context-sensitive-dictation-dummy-string
+27ebcc3746531f2e13e431bbeb9fa31f529a5624 refs/remotes/origin/copy-way
+56a6e5f1ae0277781578a9c05aaaccf751438a4f refs/remotes/origin/feature/#945-reimplement-system_command
+6b782c10436481fc19a46cc8cb9dd77281192642 refs/remotes/origin/fix-mouse-py
+108e151f152661b135d52f2615049371aad563f4 refs/remotes/origin/formatters-to-talon-list
+3125e5ad4c428c97ece76c4ec91833a3aaf43f52 refs/remotes/origin/julia
+de55ca0a3803ec420e1c1fcddce2c3ac3c6dde47 refs/remotes/origin/knausj-personal-experiments_rust
+bb3e6b32cd0e36266e5cf74f37cea369ed26a155 refs/remotes/origin/mac-close-window-via-accessbility
+bb240ba1cf958bd3e2c7791e5a57d09d205adc81 refs/remotes/origin/main
+1803ae40f63856524dc7cec4ceb0fe400908edd6 refs/remotes/origin/numbers-experiments
+d9901115e1e2fe14085b153b05dafb6acd5454e9 refs/remotes/origin/pokey/initial-meeting-tag-support
+6657ef716a87e52271d18fc847d11ddb348f95a2 refs/remotes/origin/pokey/phones-list
+72a2bb6c47be5a07131e39e669d8ea23f9c722bb refs/remotes/origin/preserve-full-screen
+2f4a9462f7ad8980dc75d554d19d2140723eea12 refs/remotes/origin/reworkNumbers
+188476cc134230fdb083ba83ac7c90c5524e18fa refs/remotes/origin/rpc_client
+468fb16392e6a9907cb98e2526c1e5cbf3b5fc8d refs/remotes/origin/talon-debug-support
+80de24c31715760d0ceea7c62c0ab1de6586af1f refs/remotes/origin/talon-list-conversion
+58af00b1672c7bad17f2014d80e1204557bc5eb5 refs/tags/cursorless/0.3.0
+^50028b1fe3387d1026da1f30cb353dae8c30318f
+a08eec13e305427b76c89e6847a3a7a3bd04b602 refs/tags/cursorless/0.3.1
+^50028b1fe3387d1026da1f30cb353dae8c30318f
+d1073fc53451be9e2ea1b0d9d1055a90952772ae refs/tags/cursorless/0.4.0
+^abf9b6651e6a313e7d3de868f633a46ee622f1cc
+cc9e40226ac5e8e8a68d7a6bfef07ec88ec96289 refs/tags/cursorless/0.5.0
+^a07c9c71355fa1e58c749adc79d325bfae2c3d2e
+2c600d118d82049fe8cb9bac9bd8ea31582f499c refs/tags/slow-dfa
+^161aef97a10c32773a41acd8cab54402db249a4d
